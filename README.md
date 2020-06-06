@@ -1,4 +1,4 @@
-# readability
+# readability-python
 A program that computes the approximate grade level needed to comprehend written text using the Coleman-Liau index:
 ```
 index = 0.0588 * L - 0.296 * S - 15.8
