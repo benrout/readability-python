@@ -7,7 +7,7 @@ Where L is the average number of letters per 100 words in the text, and S is the
 
 Example usage:
 ```
-$ ./readability
+$ python readability.py
 Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
 Grade 3
 ```
